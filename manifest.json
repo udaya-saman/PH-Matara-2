@@ -1,0 +1,26 @@
+{
+  "name": "Pizza Hut Daily Report",
+  "short_name": "PH Report",
+  "id": "/PH-Matara-2/",
+  "description": "Pizza Hut Matara 02 Outlet Daily Report",
+  "start_url": "/PH-Matara-2/",
+  "scope": "/PH-Matara-2/",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#E31837",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/PH-Matara-2/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/PH-Matara-2/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
